@@ -7,11 +7,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/serkalemdelelegn/CP/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/serkalemdelelegn/CP/tree/master/0015-3sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/serkalemdelelegn/CP/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/serkalemdelelegn/CP/tree/master/0015-3sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/serkalemdelelegn/CP/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Search
 |  |
@@ -21,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/serkalemdelelegn/CP/tree/master/0015-3sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/serkalemdelelegn/CP/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 ## Hash Table
