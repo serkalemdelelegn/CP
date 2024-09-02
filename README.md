@@ -41,6 +41,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/serkalemdelelegn/CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/serkalemdelelegn/CP/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
