@@ -47,6 +47,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/serkalemdelelegn/CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/serkalemdelelegn/CP/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/serkalemdelelegn/CP/tree/master/0014-longest-common-prefix) |
 | [0539-minimum-time-difference](https://github.com/serkalemdelelegn/CP/tree/master/0539-minimum-time-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -54,6 +55,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/serkalemdelelegn/CP/tree/master/0014-longest-common-prefix) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 ## Sliding Window
 |  |
