@@ -40,12 +40,14 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/serkalemdelelegn/CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/serkalemdelelegn/CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0539-minimum-time-difference](https://github.com/serkalemdelelegn/CP/tree/master/0539-minimum-time-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Trie
 |  |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/serkalemdelelegn/CP/tree/master/0002-add-two-numbers) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
