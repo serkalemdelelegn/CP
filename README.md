@@ -51,6 +51,7 @@
 | [0013-roman-to-integer](https://github.com/serkalemdelelegn/CP/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/serkalemdelelegn/CP/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/serkalemdelelegn/CP/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/serkalemdelelegn/CP/tree/master/0539-minimum-time-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -100,11 +101,13 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/serkalemdelelegn/CP/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/serkalemdelelegn/CP/tree/master/0013-roman-to-integer) |
+| [0241-different-ways-to-add-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/serkalemdelelegn/CP/tree/master/0539-minimum-time-difference) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/serkalemdelelegn/CP/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/0241-different-ways-to-add-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -113,4 +116,12 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/serkalemdelelegn/CP/tree/master/0179-largest-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
