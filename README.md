@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/serkalemdelelegn/CP/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/serkalemdelelegn/CP/tree/master/0386-lexicographical-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 ## Sliding Window
 |  |
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/serkalemdelelegn/CP/tree/master/0214-shortest-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/serkalemdelelegn/CP/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
