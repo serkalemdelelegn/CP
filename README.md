@@ -16,6 +16,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/serkalemdelelegn/CP/tree/master/1435-xor-queries-of-a-subarray) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/serkalemdelelegn/CP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/serkalemdelelegn/CP/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2755-extra-characters-in-a-string](https://github.com/serkalemdelelegn/CP/tree/master/2755-extra-characters-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0013-roman-to-integer](https://github.com/serkalemdelelegn/CP/tree/master/0013-roman-to-integer) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2755-extra-characters-in-a-string](https://github.com/serkalemdelelegn/CP/tree/master/2755-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2755-extra-characters-in-a-string](https://github.com/serkalemdelelegn/CP/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -64,6 +67,7 @@
 | [0386-lexicographical-numbers](https://github.com/serkalemdelelegn/CP/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/serkalemdelelegn/CP/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
+| [2755-extra-characters-in-a-string](https://github.com/serkalemdelelegn/CP/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -123,6 +127,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/0241-different-ways-to-add-parentheses) |
+| [2755-extra-characters-in-a-string](https://github.com/serkalemdelelegn/CP/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
