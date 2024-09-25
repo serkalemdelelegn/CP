@@ -16,6 +16,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/serkalemdelelegn/CP/tree/master/1435-xor-queries-of-a-subarray) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/serkalemdelelegn/CP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/serkalemdelelegn/CP/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/serkalemdelelegn/CP/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/serkalemdelelegn/CP/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/serkalemdelelegn/CP/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
@@ -61,6 +62,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/serkalemdelelegn/CP/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/serkalemdelelegn/CP/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/serkalemdelelegn/CP/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
@@ -70,6 +72,7 @@
 | [0386-lexicographical-numbers](https://github.com/serkalemdelelegn/CP/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/serkalemdelelegn/CP/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/serkalemdelelegn/CP/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/serkalemdelelegn/CP/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/serkalemdelelegn/CP/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/serkalemdelelegn/CP/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Greedy
 |  |
 | ------- |
