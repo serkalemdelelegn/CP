@@ -50,6 +50,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/serkalemdelelegn/CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/serkalemdelelegn/CP/tree/master/0013-roman-to-integer) |
+| [0432-all-oone-data-structure](https://github.com/serkalemdelelegn/CP/tree/master/0432-all-oone-data-structure) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/serkalemdelelegn/CP/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/serkalemdelelegn/CP/tree/master/0002-add-two-numbers) |
+| [0432-all-oone-data-structure](https://github.com/serkalemdelelegn/CP/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/serkalemdelelegn/CP/tree/master/0859-design-circular-deque) |
 ## Math
 |  |
@@ -171,6 +173,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/serkalemdelelegn/CP/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/serkalemdelelegn/CP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/serkalemdelelegn/CP/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/serkalemdelelegn/CP/tree/master/0859-design-circular-deque) |
@@ -184,4 +187,8 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/serkalemdelelegn/CP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/serkalemdelelegn/CP/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/serkalemdelelegn/CP/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
