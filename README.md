@@ -17,6 +17,7 @@
 | [0731-my-calendar-ii](https://github.com/serkalemdelelegn/CP/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/serkalemdelelegn/CP/tree/master/0859-design-circular-deque) |
 | [1435-xor-queries-of-a-subarray](https://github.com/serkalemdelelegn/CP/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/serkalemdelelegn/CP/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/serkalemdelelegn/CP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/serkalemdelelegn/CP/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/serkalemdelelegn/CP/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/serkalemdelelegn/CP/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/serkalemdelelegn/CP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -177,6 +179,7 @@
 | [0729-my-calendar-i](https://github.com/serkalemdelelegn/CP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/serkalemdelelegn/CP/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/serkalemdelelegn/CP/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/serkalemdelelegn/CP/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
