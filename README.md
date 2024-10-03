@@ -16,6 +16,7 @@
 | [0729-my-calendar-i](https://github.com/serkalemdelelegn/CP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/serkalemdelelegn/CP/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/serkalemdelelegn/CP/tree/master/0859-design-circular-deque) |
+| [1256-rank-transform-of-an-array](https://github.com/serkalemdelelegn/CP/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/serkalemdelelegn/CP/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/serkalemdelelegn/CP/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1694-make-sum-divisible-by-p](https://github.com/serkalemdelelegn/CP/tree/master/1694-make-sum-divisible-by-p) |
@@ -47,6 +48,7 @@
 | [0539-minimum-time-difference](https://github.com/serkalemdelelegn/CP/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/serkalemdelelegn/CP/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
+| [1256-rank-transform-of-an-array](https://github.com/serkalemdelelegn/CP/tree/master/1256-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0432-all-oone-data-structure](https://github.com/serkalemdelelegn/CP/tree/master/0432-all-oone-data-structure) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/serkalemdelelegn/CP/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/serkalemdelelegn/CP/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/serkalemdelelegn/CP/tree/master/1694-make-sum-divisible-by-p) |
 | [2755-extra-characters-in-a-string](https://github.com/serkalemdelelegn/CP/tree/master/2755-extra-characters-in-a-string) |
