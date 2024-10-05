@@ -31,6 +31,7 @@
 | ------- |
 | [0015-3sum](https://github.com/serkalemdelelegn/CP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/serkalemdelelegn/CP/tree/master/0016-3sum-closest) |
+| [0567-permutation-in-string](https://github.com/serkalemdelelegn/CP/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/serkalemdelelegn/CP/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/serkalemdelelegn/CP/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -58,6 +59,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/serkalemdelelegn/CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/serkalemdelelegn/CP/tree/master/0013-roman-to-integer) |
 | [0432-all-oone-data-structure](https://github.com/serkalemdelelegn/CP/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/serkalemdelelegn/CP/tree/master/0567-permutation-in-string) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/serkalemdelelegn/CP/tree/master/1256-rank-transform-of-an-array) |
@@ -76,6 +78,7 @@
 | [0214-shortest-palindrome](https://github.com/serkalemdelelegn/CP/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/serkalemdelelegn/CP/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/serkalemdelelegn/CP/tree/master/0567-permutation-in-string) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -97,6 +100,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/serkalemdelelegn/CP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/serkalemdelelegn/CP/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
