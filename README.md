@@ -16,6 +16,7 @@
 | [0729-my-calendar-i](https://github.com/serkalemdelelegn/CP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/serkalemdelelegn/CP/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/serkalemdelelegn/CP/tree/master/0859-design-circular-deque) |
+| [1002-maximum-width-ramp](https://github.com/serkalemdelelegn/CP/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/serkalemdelelegn/CP/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/serkalemdelelegn/CP/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/serkalemdelelegn/CP/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -128,6 +129,7 @@
 ## Stack
 |  |
 | ------- |
+| [1002-maximum-width-ramp](https://github.com/serkalemdelelegn/CP/tree/master/1002-maximum-width-ramp) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/serkalemdelelegn/CP/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/serkalemdelelegn/CP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/serkalemdelelegn/CP/tree/master/0432-all-oone-data-structure) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/serkalemdelelegn/CP/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
