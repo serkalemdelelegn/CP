@@ -26,6 +26,7 @@
 | [1923-sentence-similarity-iii](https://github.com/serkalemdelelegn/CP/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/serkalemdelelegn/CP/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/serkalemdelelegn/CP/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/serkalemdelelegn/CP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/serkalemdelelegn/CP/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/serkalemdelelegn/CP/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/serkalemdelelegn/CP/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -161,6 +162,7 @@
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/serkalemdelelegn/CP/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/serkalemdelelegn/CP/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/serkalemdelelegn/CP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -256,4 +258,12 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/serkalemdelelegn/CP/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/serkalemdelelegn/CP/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/serkalemdelelegn/CP/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/serkalemdelelegn/CP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/serkalemdelelegn/CP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
