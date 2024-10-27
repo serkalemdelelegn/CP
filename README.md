@@ -20,6 +20,7 @@
 | [1002-maximum-width-ramp](https://github.com/serkalemdelelegn/CP/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/serkalemdelelegn/CP/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/serkalemdelelegn/CP/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/serkalemdelelegn/CP/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/serkalemdelelegn/CP/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/serkalemdelelegn/CP/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/serkalemdelelegn/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -222,6 +223,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/0241-different-ways-to-add-parentheses) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/serkalemdelelegn/CP/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/serkalemdelelegn/CP/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
@@ -310,4 +312,8 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/serkalemdelelegn/CP/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/serkalemdelelegn/CP/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/serkalemdelelegn/CP/tree/master/2677-cousins-in-binary-tree-ii) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/serkalemdelelegn/CP/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
