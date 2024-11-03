@@ -112,6 +112,7 @@
 | [0539-minimum-time-difference](https://github.com/serkalemdelelegn/CP/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/serkalemdelelegn/CP/tree/master/0567-permutation-in-string) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
+| [0812-rotate-string](https://github.com/serkalemdelelegn/CP/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/serkalemdelelegn/CP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/serkalemdelelegn/CP/tree/master/1197-parsing-a-boolean-expression) |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/serkalemdelelegn/CP/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/serkalemdelelegn/CP/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
