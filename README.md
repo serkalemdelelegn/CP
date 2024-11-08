@@ -28,6 +28,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/serkalemdelelegn/CP/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/serkalemdelelegn/CP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1923-sentence-similarity-iii](https://github.com/serkalemdelelegn/CP/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/serkalemdelelegn/CP/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/serkalemdelelegn/CP/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/serkalemdelelegn/CP/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/serkalemdelelegn/CP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -170,6 +171,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/serkalemdelelegn/CP/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/serkalemdelelegn/CP/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/serkalemdelelegn/CP/tree/master/1694-make-sum-divisible-by-p) |
+| [1940-maximum-xor-for-each-query](https://github.com/serkalemdelelegn/CP/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/serkalemdelelegn/CP/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/serkalemdelelegn/CP/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
@@ -194,6 +196,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/serkalemdelelegn/CP/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/serkalemdelelegn/CP/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/serkalemdelelegn/CP/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1940-maximum-xor-for-each-query](https://github.com/serkalemdelelegn/CP/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/serkalemdelelegn/CP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/serkalemdelelegn/CP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Linked List
