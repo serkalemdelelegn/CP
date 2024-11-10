@@ -43,6 +43,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/serkalemdelelegn/CP/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/serkalemdelelegn/CP/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/serkalemdelelegn/CP/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/serkalemdelelegn/CP/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/serkalemdelelegn/CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/serkalemdelelegn/CP/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/serkalemdelelegn/CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/serkalemdelelegn/CP/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/serkalemdelelegn/CP/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/serkalemdelelegn/CP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/serkalemdelelegn/CP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/serkalemdelelegn/CP/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Linked List
 |  |
 | ------- |
