@@ -224,6 +224,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/serkalemdelelegn/CP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/serkalemdelelegn/CP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/serkalemdelelegn/CP/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3394-minimum-array-end](https://github.com/serkalemdelelegn/CP/tree/master/3394-minimum-array-end) |
 ## Linked List
 |  |
 | ------- |
