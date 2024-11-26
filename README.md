@@ -19,6 +19,7 @@
 | [0859-design-circular-deque](https://github.com/serkalemdelelegn/CP/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/serkalemdelelegn/CP/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/serkalemdelelegn/CP/tree/master/1002-maximum-width-ramp) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/serkalemdelelegn/CP/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/serkalemdelelegn/CP/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/serkalemdelelegn/CP/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/serkalemdelelegn/CP/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -114,6 +115,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/serkalemdelelegn/CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/serkalemdelelegn/CP/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/serkalemdelelegn/CP/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/serkalemdelelegn/CP/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/serkalemdelelegn/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -383,6 +385,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/serkalemdelelegn/CP/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/serkalemdelelegn/CP/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/serkalemdelelegn/CP/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/serkalemdelelegn/CP/tree/master/2089-maximum-matrix-sum) |
