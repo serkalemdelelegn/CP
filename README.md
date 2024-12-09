@@ -62,6 +62,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/serkalemdelelegn/CP/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/serkalemdelelegn/CP/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/serkalemdelelegn/CP/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/serkalemdelelegn/CP/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/serkalemdelelegn/CP/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
@@ -101,6 +102,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/serkalemdelelegn/CP/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/serkalemdelelegn/CP/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/serkalemdelelegn/CP/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/serkalemdelelegn/CP/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/serkalemdelelegn/CP/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/serkalemdelelegn/CP/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/serkalemdelelegn/CP/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3427-special-array-ii](https://github.com/serkalemdelelegn/CP/tree/master/3427-special-array-ii) |
 ## Stack
 |  |
 | ------- |
