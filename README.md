@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/serkalemdelelegn/CP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/serkalemdelelegn/CP/tree/master/0016-3sum-closest) |
 | [0179-largest-number](https://github.com/serkalemdelelegn/CP/tree/master/0179-largest-number) |
+| [0494-target-sum](https://github.com/serkalemdelelegn/CP/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/serkalemdelelegn/CP/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/serkalemdelelegn/CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/serkalemdelelegn/CP/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -349,6 +350,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/0241-different-ways-to-add-parentheses) |
+| [0494-target-sum](https://github.com/serkalemdelelegn/CP/tree/master/0494-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/serkalemdelelegn/CP/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/serkalemdelelegn/CP/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/serkalemdelelegn/CP/tree/master/2554-minimum-total-distance-traveled) |
@@ -438,6 +440,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/serkalemdelelegn/CP/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/serkalemdelelegn/CP/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/serkalemdelelegn/CP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
