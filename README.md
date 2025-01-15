@@ -317,6 +317,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/serkalemdelelegn/CP/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/serkalemdelelegn/CP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/serkalemdelelegn/CP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2509-minimize-xor](https://github.com/serkalemdelelegn/CP/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/serkalemdelelegn/CP/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/serkalemdelelegn/CP/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/serkalemdelelegn/CP/tree/master/3394-minimum-array-end) |
@@ -368,6 +369,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/serkalemdelelegn/CP/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/serkalemdelelegn/CP/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/serkalemdelelegn/CP/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2509-minimize-xor](https://github.com/serkalemdelelegn/CP/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/serkalemdelelegn/CP/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/serkalemdelelegn/CP/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/serkalemdelelegn/CP/tree/master/2716-prime-subtraction-operation) |
