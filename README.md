@@ -423,6 +423,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/serkalemdelelegn/CP/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/serkalemdelelegn/CP/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/serkalemdelelegn/CP/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/serkalemdelelegn/CP/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/serkalemdelelegn/CP/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/serkalemdelelegn/CP/tree/master/1396-count-servers-that-communicate) |
@@ -509,6 +510,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/serkalemdelelegn/CP/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/serkalemdelelegn/CP/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/serkalemdelelegn/CP/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/serkalemdelelegn/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/serkalemdelelegn/CP/tree/master/1876-map-of-highest-peak) |
@@ -558,6 +560,7 @@
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/serkalemdelelegn/CP/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/serkalemdelelegn/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/serkalemdelelegn/CP/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/serkalemdelelegn/CP/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -581,4 +584,8 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/serkalemdelelegn/CP/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/serkalemdelelegn/CP/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
