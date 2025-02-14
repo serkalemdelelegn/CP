@@ -31,6 +31,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/serkalemdelelegn/CP/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/serkalemdelelegn/CP/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/serkalemdelelegn/CP/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/serkalemdelelegn/CP/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/serkalemdelelegn/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/serkalemdelelegn/CP/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/serkalemdelelegn/CP/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -297,6 +298,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/serkalemdelelegn/CP/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/serkalemdelelegn/CP/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/serkalemdelelegn/CP/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/serkalemdelelegn/CP/tree/master/1477-product-of-the-last-k-numbers) |
 | [1694-make-sum-divisible-by-p](https://github.com/serkalemdelelegn/CP/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/serkalemdelelegn/CP/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/serkalemdelelegn/CP/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -358,6 +360,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/serkalemdelelegn/CP/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/serkalemdelelegn/CP/tree/master/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/serkalemdelelegn/CP/tree/master/1477-product-of-the-last-k-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/serkalemdelelegn/CP/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/serkalemdelelegn/CP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -459,6 +462,7 @@
 | [0729-my-calendar-i](https://github.com/serkalemdelelegn/CP/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/serkalemdelelegn/CP/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/serkalemdelelegn/CP/tree/master/0859-design-circular-deque) |
+| [1477-product-of-the-last-k-numbers](https://github.com/serkalemdelelegn/CP/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/serkalemdelelegn/CP/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
@@ -620,4 +624,8 @@
 | [0820-find-eventual-safe-states](https://github.com/serkalemdelelegn/CP/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/serkalemdelelegn/CP/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/serkalemdelelegn/CP/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/serkalemdelelegn/CP/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
