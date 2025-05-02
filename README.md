@@ -106,6 +106,7 @@
 | [0016-3sum-closest](https://github.com/serkalemdelelegn/CP/tree/master/0016-3sum-closest) |
 | [0567-permutation-in-string](https://github.com/serkalemdelelegn/CP/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/serkalemdelelegn/CP/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0868-push-dominoes](https://github.com/serkalemdelelegn/CP/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/serkalemdelelegn/CP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/serkalemdelelegn/CP/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/serkalemdelelegn/CP/tree/master/1923-sentence-similarity-iii) |
@@ -220,6 +221,7 @@
 | [0567-permutation-in-string](https://github.com/serkalemdelelegn/CP/tree/master/0567-permutation-in-string) |
 | [0720-longest-word-in-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/0720-longest-word-in-dictionary) |
 | [0812-rotate-string](https://github.com/serkalemdelelegn/CP/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/serkalemdelelegn/CP/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/serkalemdelelegn/CP/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/serkalemdelelegn/CP/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/serkalemdelelegn/CP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -424,6 +426,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/serkalemdelelegn/CP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/serkalemdelelegn/CP/tree/master/0494-target-sum) |
+| [0868-push-dominoes](https://github.com/serkalemdelelegn/CP/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/serkalemdelelegn/CP/tree/master/1025-minimum-cost-for-tickets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/serkalemdelelegn/CP/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/serkalemdelelegn/CP/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
