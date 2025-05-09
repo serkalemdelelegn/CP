@@ -258,6 +258,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/serkalemdelelegn/CP/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/serkalemdelelegn/CP/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/serkalemdelelegn/CP/tree/master/3451-string-compression-iii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/serkalemdelelegn/CP/tree/master/3637-count-number-of-balanced-permutations) |
 ## Trie
 |  |
 | ------- |
@@ -380,6 +381,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/serkalemdelelegn/CP/tree/master/1477-product-of-the-last-k-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/serkalemdelelegn/CP/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/serkalemdelelegn/CP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/serkalemdelelegn/CP/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -435,6 +437,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/serkalemdelelegn/CP/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/serkalemdelelegn/CP/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/serkalemdelelegn/CP/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3637-count-number-of-balanced-permutations](https://github.com/serkalemdelelegn/CP/tree/master/3637-count-number-of-balanced-permutations) |
 ## Memoization
 |  |
 | ------- |
@@ -655,4 +658,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/serkalemdelelegn/CP/tree/master/1477-product-of-the-last-k-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/serkalemdelelegn/CP/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
