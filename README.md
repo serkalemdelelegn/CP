@@ -95,6 +95,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/serkalemdelelegn/CP/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/serkalemdelelegn/CP/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/serkalemdelelegn/CP/tree/master/3427-special-array-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/serkalemdelelegn/CP/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/serkalemdelelegn/CP/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/serkalemdelelegn/CP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/serkalemdelelegn/CP/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -322,6 +323,7 @@
 | [2465-shifting-letters-ii](https://github.com/serkalemdelelegn/CP/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/serkalemdelelegn/CP/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/serkalemdelelegn/CP/tree/master/3427-special-array-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/serkalemdelelegn/CP/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/serkalemdelelegn/CP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
@@ -380,6 +382,7 @@
 | [0670-maximum-swap](https://github.com/serkalemdelelegn/CP/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/serkalemdelelegn/CP/tree/master/1477-product-of-the-last-k-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/serkalemdelelegn/CP/tree/master/2716-prime-subtraction-operation) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/serkalemdelelegn/CP/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/serkalemdelelegn/CP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/serkalemdelelegn/CP/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
