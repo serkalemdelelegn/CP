@@ -100,6 +100,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/serkalemdelelegn/CP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/serkalemdelelegn/CP/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/serkalemdelelegn/CP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3606-coupon-code-validator](https://github.com/serkalemdelelegn/CP/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/serkalemdelelegn/CP/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/serkalemdelelegn/CP/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/serkalemdelelegn/CP/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3606-coupon-code-validator](https://github.com/serkalemdelelegn/CP/tree/master/3606-coupon-code-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/serkalemdelelegn/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/serkalemdelelegn/CP/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/serkalemdelelegn/CP/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3606-coupon-code-validator](https://github.com/serkalemdelelegn/CP/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -259,6 +262,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/serkalemdelelegn/CP/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/serkalemdelelegn/CP/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/serkalemdelelegn/CP/tree/master/3451-string-compression-iii) |
+| [3606-coupon-code-validator](https://github.com/serkalemdelelegn/CP/tree/master/3606-coupon-code-validator) |
 | [3637-count-number-of-balanced-permutations](https://github.com/serkalemdelelegn/CP/tree/master/3637-count-number-of-balanced-permutations) |
 ## Trie
 |  |
